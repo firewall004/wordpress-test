@@ -1,0 +1,86 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: February 2, 2020 7:53 am
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.3.24
+WORDPRESS:	5.2.5
+PHP INFO:	7.3.5 | SAPI: cgi-fcgi
+SERVER:		nginx/1.16.0 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (256M default) 
+MEMORY STACK: 2MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported
+TABLES: total:37 | filtered:0 | create:37
+FILTERED: []
+SQL CREATED: 20200202_iwet_d5571d352405b9439495_20200202075256_database.sql
+SQL FILE SIZE: 2.02MB (2116828)
+SQL FILE TIME: 2020-02-02 07:53:54
+SQL RUNTIME: 4.86 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  E:/stuff 1/wordpress/Program Files/travel/app/public
+ARCHIVE FILE: 20200202_iwet_d5571d352405b9439495_20200202075256_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	127.6MB
+STATS:	Dirs 1,310 | Files 7,114
+SQL ADDED: 20200202_iwet_d5571d352405b9439495_20200202075256_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 8424
+    [filename] => E:\stuff 1\wordpress\Program Files\travel\app\public\wp-snapshots\tmp\20200202_iwet_d5571d352405b9439495_20200202075256_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 8423
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 44.98MB
+ARCHIVE RUNTIME: 438.81 sec.
+MEMORY STACK: 6MB
+building installer
+add_extra_files1
+add_extra_files2
+add_extra_files3
+add_extra_files4
+Doing archive file check
+add_extra_files5
+add_extra_files6
+add_extra_files8
+Successfully opened zip E:/stuff 1/wordpress/Program Files/travel/app/public/wp-snapshots/tmp/20200202_iwet_d5571d352405b9439495_20200202075256_archive.zip
+Adding enhanced installer files to archive using ZipArchive
+Installer files added to archive
+Added to archive
+After ziparchive close when adding installer
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 2.02MB
+INSTALLER FILE: 60.52KB
+ARCHIVE FILE: 46.33MB 
+EXPECTED FILE/DIRECTORY COUNT: 8,424
+ACTUAL FILE/DIRECTORY COUNT: 8,423
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 448.14 sec.
+PEAK PHP MEMORY USED: 8MB
+DONE PROCESSING => 20200202_iwet February 2, 2020 8:01 am
+
